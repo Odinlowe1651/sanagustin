@@ -336,6 +336,14 @@
 
   },
   {
+    "nombreapp": "RickandMorty",
+    "descripcion": "La app de RickandMorty cuenta con un splash screen animado con GIF que da la bienvenida a los usuarios, seguido de una interfaz intuitiva con navegación inferior que incluye cuatro secciones principales: Home (donde se visualiza el catálogo completo de personajes de la serie con paginación y búsqueda en tiempo real), Favoritos (que permite guardar y gestionar personajes favoritos con almacenamiento local persistente, filtros por estado y especie, y opción de eliminar individual o masivamente), Detalles (muestra información completa de cada personaje incluyendo estado vital, especie, origen, última ubicación y episodios donde aparece) y Bonus (con enlace directo a Netflix para ver la serie). La aplicación consume la API pública de Rick and Morty para obtener datos actualizados de los 826 personajes disponibles, ofreciendo una experiencia fluida y responsiva con diseño moderno en gradientes púrpura, animaciones suaves y componentes interactivos que funcionan perfectamente tanto en la versión web como en dispositivos Android.",
+    "icono": "https://i.pinimg.com/736x/2a/e8/30/2ae83042d91faf2b67ae42cfa5d2e6cc.jpg",
+    "integrantes": "Alejandro Rubio",
+    "actividad": "Android Studio",
+    "url": "https://github.com/Odinlowe1651/RickandMorty"
+  },
+  {
     "nombreapp": "BeatBox",
     "descripcion": "BeatBox es una aplicación interactiva desarrollada en React que permite al usuario generar sonidos musicales al presionar diferentes botones.",
     "icono": "https://mangoanimate.com/blog/wp-content/uploads/2023/12/Interactive-Slides-Body-Language.png.webp",
